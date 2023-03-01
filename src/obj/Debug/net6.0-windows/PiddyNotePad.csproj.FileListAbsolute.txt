@@ -1,0 +1,17 @@
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\bin\Debug\net6.0-windows\PiddyNotePad.exe
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\bin\Debug\net6.0-windows\PiddyNotePad.deps.json
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\bin\Debug\net6.0-windows\PiddyNotePad.runtimeconfig.json
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\bin\Debug\net6.0-windows\PiddyNotePad.dll
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\bin\Debug\net6.0-windows\PiddyNotePad.pdb
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.csproj.AssemblyReference.cache
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.Form1.resources
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.csproj.GenerateResource.cache
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.AssemblyInfoInputs.cache
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.AssemblyInfo.cs
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.csproj.CoreCompileInputs.cache
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.dll
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\refint\PiddyNotePad.dll
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.pdb
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\PiddyNotePad.genruntimeconfig.cache
+C:\Users\Blackencio\source\repos\PiddyNotePad\PiddyNotePad\obj\Debug\net6.0-windows\ref\PiddyNotePad.dll
